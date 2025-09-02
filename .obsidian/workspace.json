@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be1dc54754ac30d7",
+        "id": "09f9330bca7665e4",
         "type": "tabs",
         "children": [
           {
-            "id": "4aadd629dda3ca95",
+            "id": "4c10ba6faef1801e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Learning Journal/2025-08-27.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-08-27"
+              "title": "New tab"
             }
           }
         ]
@@ -188,10 +184,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "system3-relay:Relay": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -201,49 +198,49 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4aadd629dda3ca95",
+  "active": "4c10ba6faef1801e",
   "lastOpenFiles": [
-    "docs/Instructions/How to Resolve an Issue in GitHub.md",
+    "Work/Projects/People List.md",
+    "Work/Projects/List all Systems and Services.md",
+    "Work/Projects/Project INDEX.md",
+    "Work/Start Here.md",
+    "Work/Devices/Router.md",
+    "Work/Devices/PVE3.md",
+    "Work/Devices/PVE2.md",
+    "Work/Devices/PVE.md",
+    "Work/Devices/Hardware.md",
+    "Work/Devices/Frank.md",
+    "Work/Devices/Crash.md",
+    "Work/Services/Services.md",
+    "Work/Services/testing.md",
+    "Work/Change Management.md",
+    "Work/Projects/Generate Network Plan.md",
+    "Work/Projects/Create Networks Information.md",
+    "Work/Projects/Implement Monitoring and Alerts.md",
+    "Work/_templates/Network.md",
+    "Work/Projects/Create and Demo Obsidian Task Management Process for IT.md",
+    "Work/Projects/Create Accurate Network Map.md",
+    "Work/Projects/Convert NFS to better solution.md",
+    "Work/Projects/Cleanup old Kruft.md",
+    "Work/Projects/Automate device info in Obsidian.md",
+    "Work/People/Who is Who.md",
+    "Work/People/Vivian M.md",
+    "Work/People/Ricky M.md",
+    "_templates",
+    "Work",
     "docs/Learning Journal/Table.base",
-    "docs/Learning Journal/2025-08-27.md",
-    "docs/Tools/Proxmox.md",
-    "docs/Tools/Docker.md",
-    "docs/Tools/Git.md",
-    "docs/Tools/Grafana.md",
-    "docs/Tools/Loki.md",
-    "docs/Tools/Prometheus.md",
-    "docs/Tools/Technitium.md",
-    "docs/Learning Journal/2025-08-20.md",
-    "README.md",
-    "docs/Learning Journal/2025-08-06.md",
-    "docs/Learning Journal/2025-08-02.md",
-    "Untitled.md",
-    "docs/Learning Journal/2025-08-13.md",
-    "docs/index.md",
     "Untitled.canvas",
-    "docs/Learning Journal/2025-08-16.md",
-    "docs/Tools/Untitled.md",
-    "Templates/Quick.md",
-    "docs/Instructions/GitHub-Quartz-Obsidian.md",
-    "Excalidraw/Drawing 2025-08-20 17.21.08.excalidraw.md",
     "Excalidraw",
-    "docs/Tools/Semaphore.md",
-    "docs/Tools/Cisco Packet Tracer.md",
-    "docs/Projects/BTC Raspberry Pi Club Server.md",
-    "docs/Daily Journal/Untitled.md",
     "docs/Daily Journal/Untitled",
     "Templates",
     "docs/Instructions",
     "docs/Learning Journal",
     "templates",
-    "docs/Projects",
-    "docs/Glossary/Untitled",
-    "docs/Tools"
+    "docs/Projects"
   ]
 }

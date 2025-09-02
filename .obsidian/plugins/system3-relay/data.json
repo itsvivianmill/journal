@@ -1,0 +1,40 @@
+{
+  "release": {
+    "channel": "stable"
+  },
+  "sharedFolders": [
+    {
+      "path": "Work",
+      "guid": "8e395187-1549-4d15-98c1-1c43922899b9",
+      "relay": "38ed99bf-6d6e-4abc-ade0-2673e1199934",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentServer": true,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableAttachmentSync": true,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": false,
+  "enableDiscordLogin": false,
+  "enableMicrosoftLogin": true,
+  "enableSelfManageHosts": false,
+  "debugging": false,
+  "login": {
+    "provider": "google"
+  }
+}

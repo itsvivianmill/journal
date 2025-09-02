@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "system3-relay"
 ]
