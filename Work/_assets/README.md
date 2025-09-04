@@ -1,1 +1,0 @@
-This folder is currently useless due to issues with the Relay plugin wiping out anything that is not an MD file.  The original purpose of this folder is to house the source files and `svg` outputs from Excalidraw as well as other media and asset files.

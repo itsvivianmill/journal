@@ -1,7 +1,0 @@
----
-Ports:
-tags:
-  - services
----
----
-## Description

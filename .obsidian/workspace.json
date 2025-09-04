@@ -11,13 +11,28 @@
             "id": "4c10ba6faef1801e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Work/Start Here.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Start Here"
+            }
+          },
+          {
+            "id": "76138db4101ac459",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +209,6 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -203,34 +217,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c10ba6faef1801e",
+  "active": "76138db4101ac459",
   "lastOpenFiles": [
-    "Work/Projects/People List.md",
-    "Work/Projects/List all Systems and Services.md",
-    "Work/Projects/Project INDEX.md",
+    "docs/index.md",
+    "Work/_templates/Project.md",
+    "Work/_templates/Person.md",
+    "Work/Projects/Issues/Unknown Devices pose security threats.md",
+    "Work/Projects/Propose Change Management Policy.md",
+    "Work/Testing/Testing.md",
+    "Work/Testing/Tags with Dataview.md",
+    "Work/Testing/Pixel Banner Testpage.md",
+    "Work/Testing/Google Calendar Testpage.md",
+    "Work/Testing/Discord Messenger.md",
+    "Work/Testing/Clouds.md",
+    "Work/Testing/Callouts.md",
     "Work/Start Here.md",
-    "Work/Devices/Router.md",
-    "Work/Devices/PVE3.md",
-    "Work/Devices/PVE2.md",
-    "Work/Devices/PVE.md",
-    "Work/Devices/Hardware.md",
-    "Work/Devices/Frank.md",
-    "Work/Devices/Crash.md",
-    "Work/Services/Services.md",
-    "Work/Services/testing.md",
-    "Work/Change Management.md",
-    "Work/Projects/Generate Network Plan.md",
-    "Work/Projects/Create Networks Information.md",
-    "Work/Projects/Implement Monitoring and Alerts.md",
     "Work/_templates/Network.md",
     "Work/Projects/Create and Demo Obsidian Task Management Process for IT.md",
-    "Work/Projects/Create Accurate Network Map.md",
-    "Work/Projects/Convert NFS to better solution.md",
     "Work/Projects/Cleanup old Kruft.md",
-    "Work/Projects/Automate device info in Obsidian.md",
-    "Work/People/Who is Who.md",
-    "Work/People/Vivian M.md",
-    "Work/People/Ricky M.md",
+    "Work/Devices/Frank.md",
+    "Work/Devices/Crash.md",
+    "Work/Services/Obsidian-livesync.md",
+    "Work/Services/DNS.md",
+    "Work/Projects/Generate Network Plan.md",
+    "Work/Projects/Implement Monitoring and Alerts.md",
+    "Work/Projects/List all Systems and Services.md",
+    "Work/Projects/Create Accurate Network Map.md",
+    "Work/People/Lilian M.md",
+    "Work/Glossary/Discord Linkable ID.md",
+    "Work/_icons/font-awesome-solid",
+    "Work/Projects/Issues",
+    "Work/_icons",
     "_templates",
     "Work",
     "docs/Learning Journal/Table.base",
@@ -238,9 +255,6 @@
     "Excalidraw",
     "docs/Daily Journal/Untitled",
     "Templates",
-    "docs/Instructions",
-    "docs/Learning Journal",
-    "templates",
-    "docs/Projects"
+    "docs/Instructions"
   ]
 }

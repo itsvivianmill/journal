@@ -1,6 +1,0 @@
----
-tags:
-  - networks
-  - network
-  - infrastructure
----
