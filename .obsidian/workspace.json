@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Tools/Semaphore.md",
+                "file": "docs/Learning Journal/2025-09-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semaphore"
+              "title": "2025-09-06"
             }
           }
         ]
@@ -192,7 +192,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "system3-relay:Relay": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -208,8 +207,15 @@
   },
   "active": "4c10ba6faef1801e",
   "lastOpenFiles": [
-    "_templates/Project.md",
+    "docs/Learning Journal/2025-08-16.md",
+    "docs/Learning Journal/2025-09-06.md",
+    "docs/Learning Journal/2025-08-27.md",
+    "_templates/Daily Journal.md",
+    "docs/Learning Journal/2025-08-02.md",
+    "docs/Learning Journal/2025-08-20.md",
+    "docs/Learning Journal/2025-08-13.md",
     "docs/Tools/Semaphore.md",
+    "_templates/Project.md",
     "docs/Tools/Technitium.md",
     "docs/index.md",
     "Work/_templates/Project.md",
@@ -227,13 +233,6 @@
     "Work/_templates/Network.md",
     "Work/Projects/Create and Demo Obsidian Task Management Process for IT.md",
     "Work/Projects/Cleanup old Kruft.md",
-    "Work/Devices/Frank.md",
-    "Work/Devices/Crash.md",
-    "Work/Services/Obsidian-livesync.md",
-    "Work/Services/DNS.md",
-    "Work/Projects/Generate Network Plan.md",
-    "Work/Projects/Implement Monitoring and Alerts.md",
-    "Work/Projects/List all Systems and Services.md",
     "Work/_icons/font-awesome-solid",
     "Work/Projects/Issues",
     "Work/_icons",
