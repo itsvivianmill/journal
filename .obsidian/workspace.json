@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Instructions/How to Resolve an Issue in GitHub.md",
+                "file": "docs/Instructions/GitHub Journal with Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Resolve an Issue in GitHub"
+              "title": "GitHub Journal with Obsidian"
             }
           }
         ]
@@ -205,8 +205,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4607b8fe38a06c4a",
+  "active": "815ad84eac45c969",
   "lastOpenFiles": [
+    "docs/Instructions/How to Resolve an Issue in GitHub.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
     "Learning Journal/2025-09-06.md",
     "docs/Tools/Loki.md",
@@ -215,8 +216,7 @@
     "docs/Tools/Technitium.md",
     "docs/Tools/Cisco Packet Tracer.md",
     "Learning Journal/2025-08-02.md",
-    "docs/Instructions/How to Resolve an Issue in GitHub.md",
-    "docs/Instructions/GitHub-Quartz-Obsidian.md",
+    "docs/Instructions/GitHub Journal with Obsidian.md",
     "docs/Tools/Docker.md",
     "docs/Tools/Git.md",
     "docs/Tools/Proxmox.md",
