@@ -45,7 +45,7 @@ To copy the repository onto your local storage, first create the folders the rep
 
 To make the GitHub Actions usable, create the workflow and copy a pre-built YAML configuration file contributed by  
 1. In the `journal` directory, create the workflow directory.
-	1. `mkdir [journal name]/.github/workflows`
+	1. `mkdir -p [journal name]/.github/workflows`
 	2. `cd [journal name]/.github/workflows`
 	3. `winget install curl.curl` (Windows) or `sudo apt install curl` (Linux)
 2. Go to one of the two link to get the configuration file
