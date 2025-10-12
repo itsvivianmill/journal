@@ -5,10 +5,20 @@ tags:
   - obsidian
 Creation date: Saturday October 11th 2025
 ---
-Practical benefits of blogging:
+Practical benefits of Blogging:
 - Allows you to build your reputation and portfolio
 - Encourages continuous learning
 - Creates a community around your work
+
+Practical benefits of Obsidian:
+- Free, local-first note-taking applications that stores notes as markdown files
+	- Works well with Version Control Systems (like GitHub)
+	- Allows formats like tables, call outs, and links
+- Link ideas together creating connections across your notes
+- Has a vast library of community plugins
+- Customization :)
+
+This is a start of making a blog using GitHub Pages. There are more plugins, capabilities, and information that is outside the scope of these instructions; explore more and find out cool things you can do with Obsidian and GitHub!
 #### Making the GitHub Repository
 Create a public [GitHub](https://github.com/) repository and name it `journal` or anything that you want the path of the URL to be in the future (e.g. itsvivianmill.github.io/journal).
 1. Enable a README 
@@ -18,7 +28,7 @@ Go to the settings of the newly made repository.
 1. On the **Pages** tab
 	1. Select **GitHub Actions** in the drop down menu to change the deployment source
 #### Creating Folders and Cloning the Repository
-Get the SSH link of your `journal` repository to clone it to your local system.
+Get the SSH link of your `journal` repository to clone it to your local system. **Ensure that SSH keys of the local machine are imported in GitHub**
 1. On the GitHub Repository:
 	1. Click **Code**
 	2. Click **SSH**
