@@ -7,11 +7,11 @@ tags:
 creation date: Wednesday 30th July 2025
 ---
 Practical benefits for using Git or GitHub:
-1. Version Control
-2. Backup & Security, Collaboration
-3. Professional Growth
-4. Documentation & Issues 
-5. Automation & Deployment
+- Version Control
+- Backup & Security, Collaboration
+- Professional Growth
+- Documentation & Issues 
+- Automation & Deployment
 
 More information exists on [[Git]] tools page.
 

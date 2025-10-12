@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Work",
-      "template": "_templates/Project.md"
+      "folder": "Learning Journal",
+      "template": "_templates/Daily Journal.md"
     }
   ],
   "enable_file_templates": false,

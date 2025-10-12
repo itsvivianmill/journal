@@ -3,8 +3,12 @@ tags:
   - instructions
   - github
   - obsidian
-Creation date: Wednesday July 30th 2025
+Creation date: Saturday October 11th 2025
 ---
+Practical benefits of blogging:
+- Allows you to build your reputation and portfolio
+- Encourages continuous learning
+- Creates a community around your work
 #### Making the GitHub Repository
 Create a public [GitHub](https://github.com/) repository and name it `journal` or anything that you want the path of the URL to be in the future (e.g. itsvivianmill.github.io/journal).
 1. Enable a README 
@@ -69,4 +73,4 @@ Push the new files!
 Checkout GitHub Actions run the workflow, when the files are pushed, the workflow should be automatically triggered!
 #### Check GitHub Page
 To visit your GitHub page, in a browser type:
-1. `[github username].github.io/[journal name] (e.g. itsvivianmill.github.io/journal)`
+1. `[github username].github.io/[journal name]` (e.g. itsvivianmill.github.io/journal)
