@@ -112,6 +112,54 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "28a3bd09bd88c40c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How to Create a GitHub Journal with Obsidian"
+            }
+          },
+          {
+            "id": "df33177cf4004d02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How to Create a GitHub Journal with Obsidian"
+            }
+          },
+          {
+            "id": "a4018e808e052d1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
         "currentTab": 1
@@ -131,7 +179,6 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false
     }
   },
