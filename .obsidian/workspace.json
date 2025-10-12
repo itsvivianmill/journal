@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/Instructions/GitHub Journal with Obsidian.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "GitHub Journal with Obsidian"

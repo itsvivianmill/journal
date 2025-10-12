@@ -36,8 +36,8 @@ To make the GitHub Actions usable, create the workflow and copy a pre-built YAML
 	2. `cd [journal name]/.github/workflows`
 	3. `winget install curl.curl` (Windows) or `sudo apt install curl` (Linux)
 2. Go to one of the two link to get the configuration file
-	1.  **[https://www.raspberrypiclub.org/blogging/deploy.yml](https://raspberrypiclub.org/blogging/deploy.yml)**
-	2. **[ttps://github.com/btc-raspberrypiclub/github_journal/blob/main/assets/deploy.yml](https://github.com/btc-raspberrypiclub/github_journal/blob/main/assets/deploy.yml)**
+	1. **[https://www.raspberrypiclub.org/blogging/deploy.yml](https://raspberrypiclub.org/blogging/deploy.yml)**
+	2. **[https://github.com/btc-raspberrypiclub/github_journal/blob/main/assets/deploy.yml](https://github.com/btc-raspberrypiclub/github_journal/blob/main/assets/deploy.yml)**
 		1. Click the **RAW** button to get the URL of the YAML configuration file
 		2. Copy the link from the address bar
 	3. In the same terminal (make sure the path is in the workflow folder) curl the link and output it into a file
