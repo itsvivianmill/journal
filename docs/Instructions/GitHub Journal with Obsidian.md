@@ -69,4 +69,4 @@ Push the new files!
 Checkout GitHub Actions run the workflow, when the files are pushed, the workflow should be automatically triggered!
 #### Check GitHub Page
 To visit your GitHub page, in a browser type:
-1. `[github username].github.io/[journal name] (e.g. itsvivianmill.github.io/journal)
+1. `[github username].github.io/[journal name] (e.g. itsvivianmill.github.io/journal)`
