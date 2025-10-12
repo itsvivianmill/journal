@@ -19,9 +19,8 @@ Get the SSH link of your `journal` repository to clone it to your local system.
 	1. Click **Code**
 	2. Click **SSH**
 	3. Copy the SSH link
-	
-To copy the repository onto your local storage, first create the folders the repository will live in. 
 
+To copy the repository onto your local storage, first create the folders the repository will live in. 
 1. Create a directory for Obsidian that stores the `journal` permanently, open a **Powershell** (Windows) or **CMD** (Linux).
 	1. `mkdir ~/Documents/Obsidian` (I decided to store it in the Documents folder but choose whatever folder you'd like)
 	2. `cd ~/Documents/Obsidian`
