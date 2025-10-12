@@ -9,7 +9,6 @@ Creation date: Wednesday July 30th 2025
 Create a public [GitHub](https://github.com/) repository and name it `journal` or anything that you want the path of the URL to be in the future (e.g. itsvivianmill.github.io/journal).
 1. Enable a README 
 2. Add a license (GNU Public License)
-
 #### Configuring GitHub Actions
 Go to the settings of the newly made repository.
 1. On the **Pages** tab
@@ -49,7 +48,6 @@ Install on any choice of OS on Obsidian on Obsidian.md/Downloads and follow thro
 	2. Choose Destination Folder 
 		1. Select the path where the `journal` exists (e.g. ~/Documents/Obsidian/journal)
 	3. Install and run application
-
 #### Installing and Configuring the GitHub Sync Plugin
 In the bottom left corner of the Obsidian Vault, select the settings gear icon to begin installing the plugin.
 1. In **Options**, go to **Community Plugins** and turn it on:
@@ -69,7 +67,6 @@ Push the new files!
 1. Click **Sync with Remote** on the left side panel in the Obsidian Vault (Notice the files getting pushed!)
 
 Checkout GitHub Actions run the workflow, when the files are pushed, the workflow should be automatically triggered!
-
 #### Check GitHub Page
 To visit your GitHub page, in a browser type:
 1. `[github username].github.io/[journal name] (e.g. itsvivianmill.github.io/journal)
