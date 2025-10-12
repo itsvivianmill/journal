@@ -21,12 +21,13 @@ Get the SSH link of your `journal` repository to clone it to your local system.
 	3. Copy the SSH link
 	
 To copy the repository onto your local storage, first create the folders the repository will live in. 
-2. Create a directory for Obsidian that stores the `journal` permanently, open a **Powershell** (Windows) or **CMD** (Linux).
+
+1. Create a directory for Obsidian that stores the `journal` permanently, open a **Powershell** (Windows) or **CMD** (Linux).
 	1. `mkdir ~/Documents/Obsidian` (I decided to store it in the Documents folder but choose whatever folder you'd like)
 	2. `cd ~/Documents/Obsidian`
-3. Install git (if not yet installed)
+2. Install git (if not yet installed)
 	1. `winget install git.git` (Windows) or `sudo apt install git` (Linux)
-4. Clone the repository in the Obsidian folder
+3. Clone the repository in the Obsidian folder
 	1. `git clone [ssh github link]`
 
 To make the GitHub Actions usable, create the workflow and copy a pre-built YAML configuration file contributed by  
