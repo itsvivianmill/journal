@@ -19,6 +19,8 @@ Practical benefits of Obsidian:
 - Customization :)
 
 This is a start of making a blog using GitHub Pages. There are more plugins, capabilities, and information that is outside the scope of these instructions; explore more and find out cool things you can do with Obsidian and GitHub!
+
+Follow a Google Slides Presentation Here: [GitHub Journal Demo](https://docs.google.com/presentation/d/1mKiOWRZewwxKhIekINJAk-u9gz2_ERwQj90a-Q6VlhA/edit?usp=sharing) 
 #### Making the GitHub Repository
 Create a public [GitHub](https://github.com/) repository and name it `journal` or anything that you want the path of the URL to be in the future (e.g. itsvivianmill.github.io/journal).
 1. Enable a README 

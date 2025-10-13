@@ -94,23 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+                "file": "Learning Journal/2025-10-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Create a GitHub Journal with Obsidian"
-            }
-          },
-          {
-            "id": "c82fcddb04798a58",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 2025-10-12"
             }
           },
           {
@@ -119,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+                "file": "Learning Journal/2025-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to Create a GitHub Journal with Obsidian"
+              "title": "Backlinks for 2025-10-12"
             }
           },
           {
@@ -138,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+                "file": "Learning Journal/2025-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How to Create a GitHub Journal with Obsidian"
+              "title": "Outgoing links from 2025-10-12"
             }
           },
           {
@@ -160,13 +150,23 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "a94858be3c0790e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,18 +182,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45dfec03215bc955",
+  "active": "a94858be3c0790e1",
   "lastOpenFiles": [
     "docs/Instructions/How to Resolve an Issue in GitHub.md",
-    "docs/index.md",
     "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+    "Learning Journal/2025-10-12.md",
+    "docs/Instructions/How to SSH.md",
+    "docs/index.md",
     "docs/Tools/Git.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
     "Learning Journal/2025-08-02.md",
     "Learning Journal/2025-08-27.md",
     "Learning Journal/2025-09-06.md",
     "Learning Journal/2025-08-06.md",
-    "Learning Journal/2025-10-11.md",
     "docs/Tools/Loki.md",
     "docs/Tools/Prometheus.md",
     "docs/Tools/Semaphore.md",
@@ -210,7 +211,6 @@
     "Learning Journal/2025-08-13.md",
     "_templates/Project.md",
     "Work/_templates/Project.md",
-    "Work/_templates/Person.md",
     "Work/_icons/font-awesome-solid",
     "Work/Projects/Issues",
     "Work/_icons",
