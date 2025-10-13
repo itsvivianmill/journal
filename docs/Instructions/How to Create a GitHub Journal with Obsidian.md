@@ -86,3 +86,5 @@ Checkout GitHub Actions run the workflow, when the files are pushed, the workflo
 #### Check GitHub Page
 To visit your GitHub page, in a browser type:
 1. `[github username].github.io/[journal name]` (e.g. itsvivianmill.github.io/journal)
+
+Instructions Contributed By: [Ricky](https://rigunkes.github.io/obsidian-quartz-page/), Lilian, and I
