@@ -17,6 +17,10 @@
     {
       "folder": "Learning Journal",
       "template": "_templates/Daily Journal.md"
+    },
+    {
+      "folder": "docs/Instructions",
+      "template": "_templates/Instructions.md"
     }
   ],
   "enable_file_templates": false,
