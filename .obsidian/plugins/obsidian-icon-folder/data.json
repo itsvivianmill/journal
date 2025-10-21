@@ -38,7 +38,10 @@
     "iconName": "LiNewspaper",
     "iconColor": "#567b56"
   },
-  "docs/Instructions": "LiNotebookPen",
+  "docs/Instructions": {
+    "iconName": "LiNotebookPen",
+    "iconColor": "#567b56"
+  },
   "docs/Projects": {
     "iconName": "LiBug",
     "iconColor": "#567b56"
