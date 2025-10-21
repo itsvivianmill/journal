@@ -2,7 +2,7 @@
 tags:
   - about
 Creation date: Wednesday July 30th 2025
-title: Vivian's Journal
+title: Welcome to my Journal
 ---
 # Journal
 Hi! This is my personal journal relating to technology. I am using Obsidian to create and journal using the [[How to Create a GitHub Journal with Obsidian]] to publish my journal. The template I used at the start is derived from the [Growlf](https://growlf.github.io/journal/) Github.

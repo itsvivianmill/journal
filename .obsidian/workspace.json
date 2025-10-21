@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +199,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "87ac320f2ee8699e",
+  "active": "a94858be3c0790e1",
   "lastOpenFiles": [
     "_assets/Drawing 2025-10-21 15.24.18.excalidraw.md",
     "docs/index.md",
