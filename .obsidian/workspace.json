@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Create a GitHub Journal with Obsidian"
+              "title": "index"
+            }
+          },
+          {
+            "id": "87ac320f2ee8699e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,38 +194,42 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a94858be3c0790e1",
+  "active": "87ac320f2ee8699e",
   "lastOpenFiles": [
-    "docs/Instructions/How to Resolve an Issue in GitHub.md",
-    "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
-    "Learning Journal/2025-10-12.md",
-    "docs/Instructions/How to SSH.md",
+    "_assets/Drawing 2025-10-21 15.24.18.excalidraw.md",
     "docs/index.md",
-    "docs/Tools/Git.md",
+    "_assets/Untitled",
+    "_assets",
+    "docs/Instructions/How to SSH.md",
+    "_templates/tpl-con-2-1-box.md",
+    "_templates/tpl-footer.md",
+    "docs/Projects/Testing Slides.md",
+    "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+    "docs/Instructions/How to Resolve an Issue in GitHub.md",
+    "docs/Tools/Obsidian Community Plug-Ins.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
+    "_templates/Instructions.md",
+    "docs/Tools/Technitium.md",
+    "docs/Tools/Semaphore.md",
+    "docs/Tools/Proxmox.md",
+    "docs/Tools/Prometheus.md",
+    "docs/Tools/Loki.md",
+    "docs/Tools/Grafana.md",
+    "docs/Tools/Git.md",
+    "docs/Tools/Docker.md",
+    "docs/Tools/Cisco Packet Tracer.md",
+    "_templates/Daily Journal.md",
+    "Learning Journal/2025-10-12.md",
     "Learning Journal/2025-08-02.md",
     "Learning Journal/2025-08-27.md",
     "Learning Journal/2025-09-06.md",
     "Learning Journal/2025-08-06.md",
-    "docs/Tools/Loki.md",
-    "docs/Tools/Prometheus.md",
-    "docs/Tools/Semaphore.md",
-    "docs/Tools/Technitium.md",
-    "docs/Tools/Cisco Packet Tracer.md",
-    "docs/Tools/Docker.md",
-    "docs/Tools/Proxmox.md",
-    "README.md",
-    "docs/Tools/Grafana.md",
-    "Learning Journal/2025-08-20.md",
     "docs/Learning Journal/Table.base",
-    "Learning Journal/2025-08-16.md",
-    "_templates/Daily Journal.md",
-    "Learning Journal/2025-08-13.md",
-    "_templates/Project.md",
-    "Work/_templates/Project.md",
     "Work/_icons/font-awesome-solid",
     "Work/Projects/Issues",
     "Work/_icons",
@@ -218,8 +237,6 @@
     "Work",
     "Untitled.canvas",
     "Excalidraw",
-    "docs/Daily Journal/Untitled",
-    "Templates",
-    "docs/Instructions"
+    "docs/Daily Journal/Untitled"
   ]
 }

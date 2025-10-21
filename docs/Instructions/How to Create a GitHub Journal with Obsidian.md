@@ -18,6 +18,8 @@ Practical benefits of Obsidian:
 - Has a vast library of community plugins
 - Customization :)
 
+More information exists on [[Obsidian Community Plug-Ins]] tools page for customization.
+
 This is a start of making a blog using GitHub Pages. There are more plugins, capabilities, and information that is outside the scope of these instructions; explore more and find out cool things you can do with Obsidian and GitHub!
 
 Follow a Google Slides Presentation Here: [GitHub Journal Demo](https://docs.google.com/presentation/d/1mKiOWRZewwxKhIekINJAk-u9gz2_ERwQj90a-Q6VlhA/edit?usp=sharing) 
@@ -87,4 +89,4 @@ Checkout GitHub Actions run the workflow, when the files are pushed, the workflo
 To visit your GitHub page, in a browser type:
 1. `[github username].github.io/[journal name]` (e.g. itsvivianmill.github.io/journal)
 
-Instructions Contributed By: [Ricky](https://rigunkes.github.io/obsidian-quartz-page/), Lilian, and I
+Instructions Contributed By: [Ricky](https://rigunkes.github.io/obsidian-quartz-page/), Lilian, and Vivian

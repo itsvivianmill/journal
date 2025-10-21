@@ -49,3 +49,5 @@ The following steps are what I take to resolve existing issues with a GitHub org
 	2. Add important information of what was changed to the files
 3. Review solution with a different person
 4. Commit solution to main branch after approval
+
+Instructions Contributed By: Vivian
