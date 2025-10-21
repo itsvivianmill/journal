@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +199,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a94858be3c0790e1",
+  "active": "87ac320f2ee8699e",
   "lastOpenFiles": [
-    "_assets/Drawing 2025-10-21 15.24.18.excalidraw.md",
+    "_assets/linkedin_icon.md",
+    "_assets/linkedin_icon.svg",
     "docs/index.md",
+    "docs/Tools/Grafana.md",
     "_assets/Untitled",
     "_assets",
     "docs/Instructions/How to SSH.md",
@@ -219,7 +221,6 @@
     "docs/Tools/Proxmox.md",
     "docs/Tools/Prometheus.md",
     "docs/Tools/Loki.md",
-    "docs/Tools/Grafana.md",
     "docs/Tools/Git.md",
     "docs/Tools/Docker.md",
     "docs/Tools/Cisco Packet Tracer.md",
@@ -228,7 +229,6 @@
     "Learning Journal/2025-08-02.md",
     "Learning Journal/2025-08-27.md",
     "Learning Journal/2025-09-06.md",
-    "Learning Journal/2025-08-06.md",
     "docs/Learning Journal/Table.base",
     "Work/_icons/font-awesome-solid",
     "Work/Projects/Issues",
