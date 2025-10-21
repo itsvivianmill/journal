@@ -13,7 +13,7 @@ This is my personal journal relating to technology. I am using Obsidian to creat
 ##### Get in touch with me! I'd love to hear from you!
 If you have any inquires or just want to say hi, please message me over LinkedIn or email.
 
-![[linkedin_icon.svg|200]] 
+![[linkedin_icon_light.svg|200]] 
 
 ---
 ## Recent Documents
