@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "_assets/linkedin_icon_light.svg"
+                "file": "docs/_assets/linkedin_icon_light.svg"
               },
               "icon": "lucide-image",
               "title": "linkedin_icon_light"
@@ -197,11 +197,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ae5635f188d1a49f",
+  "active": "4607b8fe38a06c4a",
   "lastOpenFiles": [
-    "_assets/linkedin_icon_dark.md",
-    "_assets/linkedin_icon_light.svg",
-    "_assets/linkedin_icon_dark.svg",
+    "docs/_assets/linkedin_icon_dark.md",
+    "docs/_assets/linkedin_icon_light.svg",
+    "docs/_assets/linkedin_icon_dark.svg",
     "docs/index.md",
     "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
     "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
@@ -220,7 +220,7 @@
     "_templates/Instructions.md",
     "docs/Tools/Grafana.md",
     "_assets/Untitled",
-    "_assets",
+    "docs/_assets",
     "docs/Instructions/How to SSH.md",
     "_templates/tpl-con-2-1-box.md",
     "_templates/tpl-footer.md",
