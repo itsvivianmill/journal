@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+                "file": "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Create a GitHub Journal with Obsidian"
+              "title": "How to Import Excalidraw Images in GitHub Journals"
             }
           }
         ]
@@ -89,55 +89,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92760edf9a68e92c",
+            "id": "a94858be3c0790e1",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Learning Journal/2025-10-12.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2025-10-12"
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "28a3bd09bd88c40c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Learning Journal/2025-10-12.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2025-10-12"
-            }
-          },
-          {
-            "id": "df33177cf4004d02",
+            "id": "08f869a14b319b7b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Journal/2025-10-12.md",
+                "file": "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-10-12"
+              "title": "Outgoing links from How to Import Excalidraw Images in GitHub Journals"
             }
           },
           {
-            "id": "a4018e808e052d1c",
+            "id": "f3c19632a6ffa466",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,23 +128,12 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "a94858be3c0790e1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,16 +148,23 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "ae5635f188d1a49f",
+  "active": "a94858be3c0790e1",
   "lastOpenFiles": [
+    "docs/_assets/Drawing 2025-10-23 01.15.54.excalidraw.md",
     "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
+    "_assets/Drawing 2025-10-23 01.15.28.excalidraw.md",
+    "_assets",
     "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+    "docs/index.md",
+    "Excalidraw/Drawing 2025-10-23 00.53.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-23 00.52.58.excalidraw.md",
+    "Excalidraw",
     "docs/Instructions/How to Resolve an Issue in GitHub.md",
     "_templates/Instructions.md",
-    "docs/index.md",
     "docs/Instructions/How to SSH.md",
     "docs/_assets/linkedin_icon_dark.md",
     "docs/_assets/linkedin_icon_dark.svg",
@@ -218,11 +192,6 @@
     "_templates/tpl-footer.md",
     "docs/Projects/Testing Slides.md",
     "docs/Projects/BTC Raspberry Pi Club Server.md",
-    "docs/Tools/Technitium.md",
-    "docs/Tools/Semaphore.md",
-    "docs/Tools/Proxmox.md",
-    "docs/Learning Journal/Table.base",
-    "Work/_icons/font-awesome-solid",
     "Untitled.canvas"
   ]
 }
