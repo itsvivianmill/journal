@@ -23,15 +23,15 @@ More information exists on [[Obsidian Community Plug-Ins]] tools page for custom
 This is a start of making a blog using GitHub Pages. There are more plugins, capabilities, and information that is outside the scope of these instructions; explore more and find out cool things you can do with Obsidian and GitHub!
 
 Follow a Google Slides Presentation Here: [GitHub Journal Demo](https://docs.google.com/presentation/d/1mKiOWRZewwxKhIekINJAk-u9gz2_ERwQj90a-Q6VlhA/edit?usp=sharing) 
-#### Making the GitHub Repository
+#### Making the GitHub repository
 Create a public [GitHub](https://github.com/) repository and name it `journal` or anything that you want the path of the URL to be in the future (e.g. itsvivianmill.github.io/journal).
 1. Enable a README 
 2. Add a license (GNU Public License)
-#### Configuring GitHub Actions
+#### Configuring GitHub actions
 Go to the settings of the newly made repository.
 1. On the **Pages** tab
 	1. Select **GitHub Actions** in the drop down menu to change the deployment source
-#### Creating Folders and Cloning the Repository
+#### Creating folders and cloning the repository
 Get the SSH link of your `journal` repository to clone it to your local system. **Ensure that SSH keys of the local machine are imported in GitHub**
 1. On the GitHub Repository:
 	1. Click **Code**
@@ -66,7 +66,7 @@ Install on any choice of OS on Obsidian on Obsidian.md/Downloads and follow thro
 	2. Choose Destination Folder 
 		1. Select the path where the `journal` exists (e.g. ~/Documents/Obsidian/journal)
 	3. Install and run application
-#### Installing and Configuring the GitHub Sync Plugin
+#### Installing and configuring the GitHub Sync Plugin
 In the bottom left corner of the Obsidian Vault, select the settings gear icon to begin installing the plugin.
 1. In **Options**, go to **Community Plugins** and turn it on:
 2. Click **Browse** and search up `GitHub Sync` 
@@ -85,7 +85,7 @@ Push the new files!
 1. Click **Sync with Remote** on the left side panel in the Obsidian Vault (Notice the files getting pushed!)
 
 Checkout GitHub Actions run the workflow, when the files are pushed, the workflow should be automatically triggered!
-#### Check GitHub Page
+#### Check out GitHub page
 To visit your GitHub page, in a browser type:
 1. `[github username].github.io/[journal name]` (e.g. itsvivianmill.github.io/journal)
 

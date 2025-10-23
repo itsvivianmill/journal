@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "How to Create a GitHub Journal with Obsidian"
             }
           }
         ]
@@ -186,19 +186,20 @@
   },
   "active": "ae5635f188d1a49f",
   "lastOpenFiles": [
-    "docs/_assets/linkedin_icon_dark.md",
+    "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
+    "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
+    "docs/Instructions/How to Resolve an Issue in GitHub.md",
+    "_templates/Instructions.md",
     "docs/index.md",
+    "docs/Instructions/How to SSH.md",
+    "docs/_assets/linkedin_icon_dark.md",
     "docs/_assets/linkedin_icon_dark.svg",
     "Learning Journal/2025-10-21.md",
     "_templates/Daily Journal.md",
-    "_templates/Instructions.md",
     "Learning Journal/2025-08-27.md",
     "Learning Journal/2025-09-06.md",
     "Learning Journal/2025-10-12.md",
     "docs/_assets/linkedin_icon_light.svg",
-    "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
-    "docs/Instructions/How to Resolve an Issue in GitHub.md",
-    "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
     "docs/Tools/Obsidian Community Plug-Ins.md",
     "docs/Tools/Loki.md",
     "home/veebop/Projects/journal/_assets/linkedin_icon_dark.md",
@@ -213,7 +214,6 @@
     "docs/Tools/Grafana.md",
     "_assets/Untitled",
     "docs/_assets",
-    "docs/Instructions/How to SSH.md",
     "_templates/tpl-con-2-1-box.md",
     "_templates/tpl-footer.md",
     "docs/Projects/Testing Slides.md",
