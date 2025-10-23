@@ -11,17 +11,28 @@
             "id": "ae5635f188d1a49f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "67c078deda8d696e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Import Excalidraw Images in GitHub Journals"
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How to Import Excalidraw Images in GitHub Journals"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -152,28 +163,41 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a94858be3c0790e1",
+  "active": "67c078deda8d696e",
   "lastOpenFiles": [
-    "docs/_assets/Drawing 2025-10-23 01.15.54.excalidraw.md",
     "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
+    "docs/index.md",
+    "docs/_assets/outdoors.svg",
+    "docs/_assets/outdoors.md",
+    "docs/_assets/20250605_205147.jpg",
+    "docs/_assets/IMG_8668.jpg",
+    "docs/_assets/Drawing 2025-10-23 01.26.22.excalidraw.svg",
+    "docs/_assets/linkedin_icon.md",
+    "docs/_assets/linkedin_icon.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "docs/Tools/Technitium.md",
+    "docs/_assets/linkedin_icon_dark.svg",
+    "docs/_assets/linkedin_icon_light.svg",
+    "docs/_assets/Drawing 2025-10-23 01.15.54.excalidraw.md",
     "_assets/Drawing 2025-10-23 01.15.28.excalidraw.md",
     "_assets",
     "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
-    "docs/index.md",
     "Excalidraw/Drawing 2025-10-23 00.53.20.excalidraw.md",
     "Excalidraw/Drawing 2025-10-23 00.52.58.excalidraw.md",
-    "Excalidraw",
     "docs/Instructions/How to Resolve an Issue in GitHub.md",
     "_templates/Instructions.md",
     "docs/Instructions/How to SSH.md",
-    "docs/_assets/linkedin_icon_dark.md",
-    "docs/_assets/linkedin_icon_dark.svg",
     "Learning Journal/2025-10-21.md",
     "_templates/Daily Journal.md",
     "Learning Journal/2025-08-27.md",
     "Learning Journal/2025-09-06.md",
     "Learning Journal/2025-10-12.md",
-    "docs/_assets/linkedin_icon_light.svg",
     "docs/Tools/Obsidian Community Plug-Ins.md",
     "docs/Tools/Loki.md",
     "home/veebop/Projects/journal/_assets/linkedin_icon_dark.md",
@@ -185,13 +209,6 @@
     "Lynxee123.github.io/journal.md",
     "Lynxee123.github.io",
     "docs/Instructions/How to import Excalidraw Images in GitHub Journal.md",
-    "docs/Tools/Grafana.md",
-    "_assets/Untitled",
-    "docs/_assets",
-    "_templates/tpl-con-2-1-box.md",
-    "_templates/tpl-footer.md",
-    "docs/Projects/Testing Slides.md",
-    "docs/Projects/BTC Raspberry Pi Club Server.md",
     "Untitled.canvas"
   ]
 }
