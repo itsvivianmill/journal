@@ -12,10 +12,6 @@ path: docs/_assets/
 type: horizontal
 ```
 
-```media-slider
-![[working_on_server.svg]]
-```
-
 This is my personal journal relating to technology. I am using Obsidian to create and journal using the [[How to Create a GitHub Journal with Obsidian]] to publish my journal. The workflow I used at the start is derived from the [Growlf](https://growlf.github.io/journal/) Github.
 
 ## Contact
