@@ -207,8 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 #Obsidian
-.obsidian/plugins/google-calendar/data.json
-.obsidian/plugins/discord-message-sender/data.json
+.obsidian/
 Learning Journal/
 Discord/
 Excalidraw/
+.trash/
