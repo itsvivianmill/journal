@@ -88,16 +88,4 @@ const config: QuartzConfig = {
   },
 }
 
-import { Carousel } from "./quartz/plugins/transformers/carousel"
-
-export default defineConfig({
-  transforms: {
-    beforeSite: [
-      // ... other transformers
-      Carousel({ showDots: true }), // Add this line
-    ],
-  },
-  // ... rest of your config
-})
-
 export default config
