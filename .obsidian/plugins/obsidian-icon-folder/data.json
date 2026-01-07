@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiKeyboard",
+      "🖥",
       "LiBug",
       "LiLeaf",
-      "🏗",
-      "LiAirVent",
-      "LiHammer"
+      "🏗"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,6 +52,10 @@
   },
   "Learning Journal": {
     "iconName": "LiLeaf",
+    "iconColor": "#567b56"
+  },
+  "docs/Internship": {
+    "iconName": "LiKeyboard",
     "iconColor": "#567b56"
   }
 }
