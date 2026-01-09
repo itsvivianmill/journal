@@ -1,3 +1,8 @@
+---
+tags:
+  - internship
+  - fcn
+---
 ##### Date: 01/08/2026
 ##### Hours Completed: 4.5 hours
 
