@@ -1,3 +1,4 @@
+Date: 01/08/2026
 Hours Completed: 4.5 hours
 
 Today, I provisioned a total of 10 phones with Lili for the SFM clinic. The steps were simple; connect phone to PoE, set up wireless connection, print out their extension number and stick the label onto the phones, and pack them back into the box. The longest part was waiting for each phone to receive its configuration and extension. 
