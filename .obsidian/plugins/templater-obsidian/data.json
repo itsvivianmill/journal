@@ -21,6 +21,10 @@
     {
       "folder": "docs/Instructions",
       "template": "_templates/Instructions.md"
+    },
+    {
+      "folder": "docs/Internship",
+      "template": "_templates/Internship.md"
     }
   ],
   "enable_file_templates": false,
