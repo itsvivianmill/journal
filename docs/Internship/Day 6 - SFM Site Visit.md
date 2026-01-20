@@ -9,4 +9,6 @@ tags:
 Today, 
 Shadowed Ryan explaining infrastructure. 
 - vmware
-- 
+
+
+##### Weekly Reflection
