@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Internship/Day 3 - Moving Computers, Shadow, and New Hire On-boarding.md",
+                "file": "docs/Internship/Day 6 - SFM Site Visit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 3 - Moving Computers, Shadow, and New Hire On-boarding"
+              "title": "Day 6 - SFM Site Visit"
             }
           }
         ]
@@ -165,17 +165,21 @@
   },
   "active": "4f7da76bd9b40840",
   "lastOpenFiles": [
-    "docs/Internship/Day 1 - Onboarding.md",
-    "docs/index.md",
+    "docs/Internship/Day 5 - FHA Site Visit and Installing Phones at SFM.md",
+    "docs/Internship/Day 6 - SFM Site Visit.md",
+    "docs/Instructions/How to SSH.md",
     "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
-    "_templates/Daily Journal.md",
-    "docs/Internship/Day 3 - Moving Computers, Shadow, and New Hire On-boarding.md",
-    "Learning Journal/2025-08-27.md",
+    "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
+    "docs/Instructions/How to Resolve an Issue in GitHub.md",
+    "docs/Internship/Day 4 - Imaging and Retiring Computers.md",
     "docs/Internship/Day 2 - Provisioning Phones and Site Visit.md",
+    "docs/Internship/Day 3 - Moving Computers, Shadow, and New Hire On-boarding.md",
+    "docs/index.md",
+    "docs/Internship/Day 1 - Onboarding.md",
+    "_templates/Daily Journal.md",
+    "Learning Journal/2025-08-27.md",
     "_templates/Internship.md",
     "_templates/Instructions.md",
-    "docs/Instructions/How to SSH.md",
-    "docs/Instructions/How to Resolve an Issue in GitHub.md",
     "Learning Journal/2025-08-06.md",
     "docs/Tools/Prometheus.md",
     "docs/Tools/Grafana.md",
@@ -183,7 +187,6 @@
     "Learning Journal/2026-01-08 FCN.md",
     "Learning Journal/2025-12-06.md",
     "docs/Internship",
-    "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
     "docs/_assets/20250605_205147.jpg",
     "docs/_assets/working_on_server.svg",
     "docs/_assets/IMG_8668.jpg",
@@ -195,9 +198,6 @@
     "Learning Journal/2025-10-28.md",
     "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "docs/_assets/Drawing 2025-10-23 02.07.59.excalidraw.md",
-    "docs/_assets/Drawing 2025-10-23 02.06.13.excalidraw.md",
     "docs/_assets/outdoors.svg",
     "docs/_assets/Drawing 2025-10-23 01.26.22.excalidraw.svg",
     "docs/_assets/linkedin_icon.svg",
