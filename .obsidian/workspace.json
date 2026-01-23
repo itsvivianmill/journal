@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Internship/Day 7 - Provisioning LFM Phones, Admin Switches, and Visiting Network Racks.md",
+                "file": "docs/Internship/Day 6 - Shadowing the System Admin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 7 - Provisioning LFM Phones, Admin Switches, and Visiting Network Racks"
+              "title": "Day 6 - Shadowing the System Admin"
+            }
+          },
+          {
+            "id": "ffda2a1bcb78bcf8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,10 +176,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4f7da76bd9b40840",
+  "active": "ffda2a1bcb78bcf8",
   "lastOpenFiles": [
-    "docs/Internship/Day 8 - Finished Provisioning LFM Phones.md",
     "docs/Internship/Day 7 - Provisioning LFM Phones, Admin Switches, and Visiting Network Racks.md",
+    "docs/Internship/Day 8 - Finished Provisioning LFM Phones.md",
     "docs/Internship/Day 6 - Shadowing the System Admin.md",
     "docs/Internship/Day 5 - FHA Site Visit and Installing Phones at SFM.md",
     "docs/Internship/Day 4 - Imaging and Retiring Computers.md",
