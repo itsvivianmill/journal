@@ -25,12 +25,14 @@
             "id": "ffda2a1bcb78bcf8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "docs/Internship/Day 8 - Finished Provisioning LFM Phones.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "Day 8 - Finished Provisioning LFM Phones"
             }
           }
         ],
