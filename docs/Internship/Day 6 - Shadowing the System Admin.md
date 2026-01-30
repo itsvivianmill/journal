@@ -12,6 +12,8 @@ Roles:
 - System Analyst
 - System Administrator 
 - Operational Database Administrator
+- Epic Web and Server Administrator
+- Epic Cogito System Administrator II
 
 ##### Weekly Reflection
 For the second week of this internship, I found that I really like visiting the different clinics and helping the people have been the most fun part. I like learning about the history of FCN and the people who keep it running since I find their work interesting. 
