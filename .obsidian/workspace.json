@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Internship/Day 13 - Installing a Keyboard.md",
+                "file": "docs/Internship/Day 13 - Installing a Keyboard and a Scanner at FHA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 13 - Installing a Keyboard"
+              "title": "Day 13 - Installing a Keyboard and a Scanner at FHA"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "ffda2a1bcb78bcf8",
   "lastOpenFiles": [
+    "docs/Internship/Day 1 - Onboarding.md",
     "docs/Internship/Day 12 - Provisioned FHA Switches.md",
-    "docs/Internship/Day 13 - Installing a Keyboard.md",
+    "docs/Internship/Day 13 - Installing a Keyboard and a Scanner at FHA.md",
     "docs/Internship/Day 11 - Chill Day.md",
     "docs/Internship/Day 10 - Help Desk Calls and LFM Phone Install.md",
     "docs/Internship/Day 9 - Help Desk Call, Shadow, and NSFM Site Visit.md",
@@ -176,7 +177,6 @@
     "docs/Internship/Day 3 - Moving Computers, Shadow, and New Hire On-boarding.md",
     "docs/Internship/Day 5 - FHA Site Visit and Installing Phones at SFM.md",
     "docs/Internship/Day 4 - Imaging and Retiring Computers.md",
-    "docs/Internship/Day 1 - Onboarding.md",
     "docs/Internship/Day 2 - Provisioning SFM Phones and Site Visit.md",
     "docs/Instructions/How to SSH.md",
     "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
