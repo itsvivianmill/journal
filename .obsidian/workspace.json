@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Internship/Day 20 - Provisioning More Desktops, Organize Workbench, and Setup Switches.md",
+                "file": "docs/Internship/Day 21 - CFM & NCFP Site Visit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 20 - Provisioning More Desktops, Organize Workbench, and Setup Switches"
+              "title": "Day 21 - CFM & NCFP Site Visit"
             }
           }
         ]
@@ -165,12 +165,13 @@
   },
   "active": "ffda2a1bcb78bcf8",
   "lastOpenFiles": [
-    "docs/Internship/Day 18 - Keyboard Replacement and FHA Site Visit.md",
-    "docs/Internship/Day 19 - Provisioning Desktops and Keyboard Replacement.md",
     "docs/Internship/Day 20 - Provisioning More Desktops, Organize Workbench, and Setup Switches.md",
+    "docs/Internship/Day 21 - CFM & NCFP Site Visit.md",
+    "docs/Internship/Day 18 - Keyboard Replacement and FHA Site Visit.md",
+    "docs/Internship/Day 17 - Emails to Practice Managers.md",
+    "docs/Internship/Day 19 - Provisioning Desktops and Keyboard Replacement.md",
     "docs/Internship/Day 16 - Chill Day and New Project Proposed.md",
     "docs/Internship/Day 1 - Onboarding.md",
-    "docs/Internship/Day 17 - Emails to Practice Managers.md",
     "Learning Journal/2026-02-13.md",
     "Learning Journal/2026-01-08 FCN.md",
     "docs/Internship/Day 15 - Half Day and PAD Safety Walk.md",
@@ -190,7 +191,6 @@
     "docs/Instructions/How to SSH.md",
     "docs/Instructions/How to Create a GitHub Journal with Obsidian.md",
     "docs/Instructions/How to Import Excalidraw Images in GitHub Journals.md",
-    "docs/Instructions/How to Resolve an Issue in GitHub.md",
     "docs/Internship",
     "docs/_assets/20250605_205147.jpg",
     "docs/_assets/working_on_server.svg",
