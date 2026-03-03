@@ -12,4 +12,3 @@ I cleaned up the IT workbench by removing loose cables and organizing them in th
 
 I opened several boxes of switches for NSFM. Ryan was configuring them today with Alex.
 
-**Total Hour Check Up:** 112.67 Hours
